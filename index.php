@@ -69,7 +69,7 @@
   <script src="raw/js/app.js"></script>
   <!--Carga  Particulas-->
   <script src="raw/js/mouse_balls.js"></script> <!-- Carga mouse_balls-->
-  <script src="raw/js/mouse_spirally.js"></script><!-- Carga mouse_spirally-->
+  <!--<script src="raw/js/mouse_spirally.js"></script> Carga mouse_spirally-->
 
 </body>
 
